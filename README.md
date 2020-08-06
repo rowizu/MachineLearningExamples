@@ -13,7 +13,7 @@ Terminal
 Ruwaida Zuhairy - Initial work.
 
 # Dataset
-## Simple Linear Regression
+## Simple Linear Regression dataset
 Source: J. Dean (1941), "Statistical Cost Functions of a Hosiery Mill", Studies in Business Administration, Vol. 14, #3.
 
 Description: Monthly Production Costs and Output for a hosiery mill over a 4-year period (Data approximated from graph).
@@ -22,7 +22,7 @@ Variables/Columns Month 1-2 Production 12-16 (Thousands of dozens of pairs) Cost
 
 link to data set: http://users.stat.ufl.edu/~winner/data/millcost.dat
 
-## Multiple Linear Regression, Random Forest, Decision Tree, and K-nearest Neighbours
+## Multiple Linear Regression, Random Forest, Decision Tree, and K-nearest Neighbours dataset
 
 Source: Shaliny Goyal, "Car Price Prediction", 
 https://www.kaggle.com/goyalshalini93/car-data

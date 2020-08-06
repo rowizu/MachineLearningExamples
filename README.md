@@ -13,7 +13,7 @@ Terminal
 Ruwaida Zuhairy - Initial work.
 
 # Dataset
-##Simple Linear Regression
+## Simple Linear Regression
 Source: J. Dean (1941), "Statistical Cost Functions of a Hosiery Mill", Studies in Business Administration, Vol. 14, #3.
 
 Description: Monthly Production Costs and Output for a hosiery mill over a 4-year period (Data approximated from graph).

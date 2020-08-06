@@ -22,7 +22,7 @@ Variables/Columns Month 1-2 Production 12-16 (Thousands of dozens of pairs) Cost
 
 link to data set: http://users.stat.ufl.edu/~winner/data/millcost.dat
 
-## Multiple Linear Regression
+## Multiple Linear Regression, Random Forest, Decision Tree, and K-nearest Neighbours
 
 Source: Shaliny Goyal, "Car Price Prediction", 
 https://www.kaggle.com/goyalshalini93/car-data

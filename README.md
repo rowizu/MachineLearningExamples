@@ -2,7 +2,7 @@
 This Repository is for data science and machine learning examples i have done.
 
 # Prerequisites
-You need to download Python Anaconda(Spyder, Jupyter Notebook) or you can just use Google Colaboratory ( i recommend this for beginners and those who wants a quick start with examples)
+You need to download Python Anaconda(Spyder, Jupyter Notebook) or you can just use Google Colaboratory ( i recommend this for beginners and those who want a quick start with examples)
 
 # Built With
 Spyder - Anaconda 
